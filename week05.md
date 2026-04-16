@@ -3,4 +3,4 @@
 ![gns](./images/Vlan-Basics-12307204.02.png)
 ![gns](./images/Vlan-Basics-12307204.03.png)
 ![gns](./images/Vlan-Basics-12307204.04.png)
-![gns](./images/Vlan-Basics-12307204.05.png)
+![gns](./images/Vlan-Basics-12307204.06.png)
