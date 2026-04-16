@@ -7,3 +7,4 @@
 ![gns](./images/GNS-setting-ip-12307204.07.png)
 ![gns](./images/GNS-setting-ip-12307204.08.png)
 ![gns](./images/GNS-setting-ip-12307204.09.png)
+![gns](./images/GNS-setting-ip-12307204.10.png)
