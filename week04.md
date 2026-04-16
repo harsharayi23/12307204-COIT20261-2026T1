@@ -1,1 +1,1 @@
-![gns](./images/Vlan-Basics-12307204.01.png)
+![gns](./images/view-route-12307204.1.png)
