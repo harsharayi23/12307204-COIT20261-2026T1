@@ -3,4 +3,3 @@
 ![gns](./images/view-route-12307204.3.png)
 ![gns](./images/view-route-12307204.4.png)
 ![gns](./images/view-route-12307204.5.png)
-![gns](./images/view-route-12307204.6.png)
