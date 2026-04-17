@@ -15,9 +15,15 @@ Creating a project
 
 Adding a Linux host
 
+Choose IP Address
+
 Configuring static IP
 
-Using Linux commands
+Open Console
+
+Show IP Address
+
+Use command ip addr show
 
 ### Screenshots
 
