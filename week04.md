@@ -74,5 +74,4 @@ up sysctl net.ipv4.ip_forward=1
 ### View route project
 ![gns](./images/view-route-12307204.5.png)
 
-## Task 2:
 ![gns](./images/view-route-12307204.6.png)
