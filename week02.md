@@ -24,7 +24,7 @@
 
 ---
 
-### Task 2: Ping Testing
+### Task 1: Show IP address 
 
 
 ![gns](./images/GNS-setting-ip-12307204.01.png)
@@ -34,6 +34,8 @@
 ![gns](./images/GNS-setting-ip-12307204.05.png)
 ![gns](./images/GNS-setting-ip-12307204.06.png)
 ![gns](./images/GNS-setting-ip-12307204.07.png)
+
+### Task 2: Ping Testing
 ![gns](./images/GNS-setting-ip-12307204.08.png)
 ![gns](./images/GNS-setting-ip-12307204.09.png)
 ![gns](./images/GNS-setting-ip-12307204.10.png)
