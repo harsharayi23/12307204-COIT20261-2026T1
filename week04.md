@@ -33,21 +33,34 @@ Learn how to view routing tables and enable forwarding on a router.
 
 #### Host Configuration
 bash
+
 auto eth0
+
 iface eth0 inet static
+  
    address 10.10.10.04
+   
    netmask 255.255.255.0
+   
    gateway 10.10.10.1
+   
    up sysctl net.ipv4.ip_forward=0
 #### Router Configuration
+
 auto eth0
+
 iface eth0 inet static
+
    address 10.1.1.1
+   
    netmask 255.255.255.0
 
 auto eth1
+
 iface eth1 inet static
+
    address 10.1.2.1
+   
    netmask 255.255.255.0
 
 up sysctl net.ipv4.ip_forward=1
