@@ -1,1 +1,8 @@
 ![gns](./images/week6-12307204.01.png)
+![gns](./images/week6-12307204.11.png)
+![gns](./images/week6-12307204.12.png)
+![gns](./images/week6-12307204.13.png)
+![gns](./images/week6-12307204.14.png)
+![gns](./images/week6-12307204.15.png)
+![gns](./images/week6-12307204.16.png)
+![gns](./images/week6-12307204.17.png)
