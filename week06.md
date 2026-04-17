@@ -51,14 +51,14 @@ Entries may expire if not used for some time.
 ### Output
 ![gns](./images/week6-12307204.01.png)
 
-# 📘 Task 2: Default Gateways & Static Routing
+# Task 2: Default Gateways & Static Routing
 
-## 🎯 Aim
+##  Aim
 To configure default gateways and enable communication between different subnets using static routing.
 
 ---
 
-## ⚙️ Network Setup
+##  Network Setup
 - Project Name: `Default-Gateway-<studentid>`
 
 ### Devices:
@@ -68,7 +68,7 @@ To configure default gateways and enable communication between different subnets
 
 ---
 
-## 🌐 IP Addressing Scheme
+##  IP Addressing Scheme
 
 | Device   | Interface | IP Address     |
 |----------|----------|----------------|
@@ -83,9 +83,9 @@ To configure default gateways and enable communication between different subnets
 
 ---
 
-## 🧪 Configuration
+##  Configuration
 
-### 🖥️ Host Configuration
+###  Host Configuration
 
 #### Host A
 ```bash
