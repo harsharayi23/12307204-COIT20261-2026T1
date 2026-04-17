@@ -1,11 +1,11 @@
-# 🖧 VLAN Basics using OpenvSwitch (GNS3)
+# VLAN Basics using OpenvSwitch (GNS3)
 
-## 📌 Aim
+##  Aim
 To learn how to configure Virtual LANs (VLANs) on a managed switch using OpenvSwitch in GNS3 and understand network segmentation.
 
 ---
 
-## 🛠️ Topology
+##  Topology
 - 4 × Linux Hosts  
 - 1 × OpenvSwitch  
 - Connections:
@@ -17,7 +17,7 @@ To learn how to configure Virtual LANs (VLANs) on a managed switch using OpenvSw
 
 ---
 
-## 🌐 IP Configuration
+##  IP Configuration
 All hosts are configured in the same subnet:
 
 | Host   | IP Address        |
@@ -29,7 +29,7 @@ All hosts are configured in the same subnet:
 
 ---
 
-## ▶️ Initial Connectivity Test
+##  Initial Connectivity Test
 Before VLAN configuration, all hosts can communicate:
 
 ```bash
