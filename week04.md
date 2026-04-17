@@ -39,6 +39,8 @@ iface eth0 inet static
    netmask 255.255.255.0
    gateway 10.10.10.1
    up sysctl net.ipv4.ip_forward=0
+
+```
 ![gns](./images/view-route-12307204.1.png)
 ![gns](./images/view-route-12307204.2.png)
 ![gns](./images/view-route-12307204.3.png)
