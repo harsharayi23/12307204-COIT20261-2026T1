@@ -3,7 +3,7 @@
 ### 👨‍💻 Student Details
 - Name: Harsha Vardhan Rayi
 - Student ID: 12307204
-- 
+  
 ---
 
 ### Task 1: Setting Static IP Addresses
