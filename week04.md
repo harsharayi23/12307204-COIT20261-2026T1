@@ -65,11 +65,13 @@ iface eth1 inet static
 
 up sysctl net.ipv4.ip_forward=1
 
-## Screenshots of route tables:
+### Screenshots of routing tables:
 ![gns](./images/view-route-12307204.1.png)
 ![gns](./images/view-route-12307204.2.png)
 ![gns](./images/view-route-12307204.3.png)
+### Ping Test:
 ![gns](./images/view-route-12307204.4.png)
+### View route project
 ![gns](./images/view-route-12307204.5.png)
 
 ## Task 2:
